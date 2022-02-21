@@ -1,16 +1,34 @@
 #Copyright {
 	color: gray;
-	
 }
 
 #title {
-	text-align: center
+	text-align: center;
+	font-family: sans-serif, Arial;
 }
 
 #main_text {
-	text-align: center
+	text-align: center;
+	font-family: sans-serif, Arial;
 }
 
 #image {
-	text-align: center
+	text-align: center;
 }
+
+#twitter {
+	text-align: center;
+	font-family: sans-serif, Arial;
+}
+
+h1 {
+	margin: 0;
+}
+
+h2 {
+	margin: 0;
+}
+
+
+
+
