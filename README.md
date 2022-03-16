@@ -10,5 +10,9 @@ I added CSS for the index page, but forgot to update the index page from my loca
     <p></p>
     <p>03/03/2022:</p>
 I added a better logo at the top of the Index page. I will add for all the other pages soon. I used the Gorillaz font.
+    <p></p>
+    <p>03/15/2022:</p>
+    Huge changes. New navigator at top, default HTML buttons removed. The about me section on the index was removed and will be added to it's seperate page, the background color is now gray and just overall the layout of every single part of the site has been moved besides the copyright.
+  
   </body>
  </html>
